@@ -33,4 +33,4 @@ public static void main(String[] args) {
     else{
         System.out.println("Escolha uma opçao valida !");
     }
-}
+}   //Exercicio em java usando condicionais, o exercício consiste em pedir um valor onde ser aplicado ou adicionados descontos utilizando if else 
